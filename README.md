@@ -1,6 +1,6 @@
 # Polaris Linux Handbook
 
-Welcome to the Polaris Linux Handbook. This guide will walk you through the basics of installing and getting started with Polaris Linux from scratch.
+Welcome to the Polaris Linux Handbook. This guide will explain what is Polaris and whats its future plans
 
 ## What is Polaris Linux
 
