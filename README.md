@@ -29,3 +29,4 @@ The installation process is similar to Arch Linux, with a few Polaris-specific s
 1. Boot into the Polaris installer ISO
 2. Follow the guided or manual installation process
 3. Configure your system to your preferences
+4. The current build ships with the Budgie desktop environment by default.
