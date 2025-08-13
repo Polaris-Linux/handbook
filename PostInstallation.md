@@ -31,4 +31,5 @@ Congratulations! You have finished installing Polaris Linux with the whole guide
 
 Optionally if you wanna get a screenshot to showoff to your friends run
 
-`about-polaris` to get the system stats.
+`about-polaris` to get the system stats. 
+Soon will there will be an official Fastfetch/Neofetch for it 
